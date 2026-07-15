@@ -25,7 +25,7 @@ Look for the **asterisk (*) icon** in the left sidebar — that is the Claude Co
 | 1 | Learn what an AI agent is (slides, no computer needed) |
 | 2 | Use Claude at claude.ai — your first AI instruction |
 | 3 | Open this workspace and use Claude Code for the first time |
-| 4 | Build your first real agent from your own business |
+| 4 | Build your first real agent from your own business, using **The Cookbook** |
 
 ## Exercise files
 

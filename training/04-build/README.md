@@ -16,6 +16,8 @@ TRIGGER  →  TASK  →  OUTPUT
 | **Task** | What does it do? | Read something / write something / check something / send something / calculate something |
 | **Output** | Where does the result go? | An email in your inbox / a row added to a spreadsheet / a message on your phone / a file saved |
 
+> **Where this fits — The Cookbook.** These Three Parts *are* a **Recipe**: the plain-English instructions your agent follows. When you build, your **Chef** (the AI) reads the Recipe and calls reliable **Cooks** (small, single-job tools) to do the actual work. It is the same idea as the `The-Cookbook.md` starter file in your workspace.
+
 ---
 
 ## Three real examples

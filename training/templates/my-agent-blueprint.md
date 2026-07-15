@@ -2,6 +2,8 @@
 
 Fill this in during Module 4. Keep it — this is your plan for the agent you are going to build.
 
+This blueprint is your **first Recipe** — the plain-English instructions your Cookbook agent will follow.
+
 ---
 
 ## The Three Parts
